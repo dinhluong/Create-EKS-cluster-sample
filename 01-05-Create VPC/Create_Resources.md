@@ -4,6 +4,7 @@ EKS is only supported in three regions:
 us-east-1 (Northern VA)
 us-west-2 (Oregon)
 eu-west-1 (Ireland)
+asia pacific
 
 Make sure you are in one of those regions when launching your VPC template
 
